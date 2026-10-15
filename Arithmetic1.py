@@ -21,7 +21,7 @@ num1 = 90
 num2 = 3
 answer = num1 * num2
 
-# Example of Division
+#Example of Division
 cake_slices = 10
 people = 5
 answer = cake_slices / people
